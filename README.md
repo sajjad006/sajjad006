@@ -1,7 +1,7 @@
 <!--# Hi there 👋-->
 ## Sajjad Ahmed Shaaz
 
-<!--**sajjad006/sajjad006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**sajjad006/sajjad006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on [cheatcode.tech](cheatcode.tech), an interactive coding learning platform for school going students.
 - 🌱 I’m currently learning advanced backend development
@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ...-->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sajjad006&custom_title=Sajjad%20Ahmed&show_icons=true&count_private=true&theme=default&include_all_commits=true" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=sajjad006&custom_title=Sajjad%20Ahmed&show_icons=true&count_private=true&theme=default&include_all_commits=true" />-->
